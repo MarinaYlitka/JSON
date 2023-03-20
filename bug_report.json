@@ -1,1 +1,15 @@
-
+{
+  "ID": "1",
+  "Priority": "Low",
+  "Title": "Refresh link text after page load",
+  "Steps": [
+    "Open main page",
+    "Scroll to the footer",
+    "Refresh the page",
+    "Scroll to the footer again if you need it""
+           ],
+  "ER": "Tex is not updated. Initially, the desired text is displayed.",
+  "AR": "Text is updated after loading the page from 'Manage cookie'  to 'Cookie settings'",
+  "OS": "1. Win10; х64, Chrome 109.0.5414.120",
+  "Attachment": "09.02.23 Cookies.mp4"
+}
