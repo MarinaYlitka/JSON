@@ -6,7 +6,7 @@
     "Open main page",
     "Scroll to the footer",
     "Refresh the page",
-    "Scroll to the footer again if you need it""
+    "Scroll to the footer again if you need it"
            ],
   "ER": "Tex is not updated. Initially, the desired text is displayed.",
   "AR": "Text is updated after loading the page from 'Manage cookie'  to 'Cookie settings'",
