@@ -1,5 +1,5 @@
 {
-	"Skills from this course": {
+	"Skills from this course": [
 		"Linux terminal",
 		"Git Bush",
 		"Client-server architecture",
@@ -9,6 +9,6 @@
 		"JSON",
 		"Pithon",
 		"JS",
-		"Mobile testing",
-	}
+		"Mobile testing"
+	]
 }
